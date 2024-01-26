@@ -8017,6 +8017,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ctrl: {fileID: 14627050}
   weaponHitbox: {fileID: 320941057}
+  actions: []
+  actions_Array: []
+  action:
+    rid: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
 --- !u!1 &1035118998
 GameObject:
   m_ObjectHideFlags: 0
